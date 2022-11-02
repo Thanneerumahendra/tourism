@@ -1,0 +1,222 @@
+pj1{
+    margin:0;
+    padding: 0;
+    background:#666b55;
+    font-color:#010408;
+
+}
+pj1{
+    margin:0;
+    padding: 0;
+    background:#666b55;
+    font-color:#010408;
+
+}
+.babai{
+	position: absolute;
+	left: 25cm;
+	right: 10cm;
+	bottom: 5cm;
+}
+button{
+	margin:0;
+	padding:0;
+	padding-top:10px;
+	text-align: center;
+	width: 4cm;
+	height:1cm;
+}
+.li{
+	margin:0;
+	padding:0;
+	padding-top:10px;
+	text-align: center;
+	width: 4cm;
+	height:1cm;
+
+}
+*{
+
+	margin: 0;
+
+	padding: 0;
+
+	font-family: sans-serif;
+
+	box-sizing: border-box;
+
+}
+
+body{
+
+	height: 100vh;
+
+	display: flex;
+
+	justify-content: center;
+
+	align-items: center;
+
+	background: linear-gradient(25deg, #8600b3 50%, #cc33ff 50%);
+
+}
+
+h1{
+
+	position: absolute;
+
+	top: 30%;
+
+	font-size: 60px;
+
+	color: white;
+
+}
+
+.box{
+
+	width: 500px;
+
+	height: 50px;
+
+	background-color: white;
+
+	border-radius: 30px;
+
+	display: flex;
+
+	align-items: center;
+
+	padding: 20px;
+
+}
+
+.box > i {
+
+	font-size: 20px;
+
+	color: #777;
+
+}
+
+.box > input{
+
+	flex: 1;
+
+	height: 40px;
+
+	border: none;
+
+	outline: none;
+
+	font-size: 18px;
+
+	padding-left: 10px;
+}
+*{
+
+	margin: 0;
+
+	padding: 0;
+
+	font-family: sans-serif;
+
+	box-sizing: border-box;
+
+}
+
+body{
+
+	height: 100vh;
+
+	display: flex;
+
+	justify-content: center;
+
+	align-items: center;
+
+	background: linear-gradient(25deg, #8600b3 50%, #cc33ff 50%);
+
+}
+
+h1{
+
+	position: absolute;
+
+	top: 30%;
+
+	font-size: 60px;
+
+	color: white;
+
+}
+
+.box{
+
+	width: 500px;
+
+	height: 50px;
+
+	background-color: white;
+
+	border-radius: 30px;
+
+	display: flex;
+
+	align-items: center;
+
+	padding: 20px;
+
+}
+
+.box > i {
+
+	font-size: 20px;
+
+	color: #777;
+
+}
+
+.box > input{
+
+	flex: 1;
+
+	height: 40px;
+
+	border: none;
+
+	outline: none;
+
+	font-size: 18px;
+
+	padding-left: 10px;
+
+
+}
+
+#searchbar{
+	margin-left: 15%;
+	padding:15px;
+	border-radius: 10px;
+}
+
+input[type=text] {
+	width: 30%;
+	-webkit-transition: width 0.15s ease-in-out;
+	transition: width 0.15s ease-in-out;
+}
+
+/* When the input field gets focus,
+		change its width to 100% */
+input[type=text]:focus {
+	width: 70%;
+}
+
+#list{
+	font-size: 1.5em;
+	margin-left: 90px;
+}
+
+.tourism{
+display: list-item;	
+}
